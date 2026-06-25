@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "\u0411\u0430\u043D \u0432\u043A",
+    "Action": "Block",
+    "Protocol": null,
+    "SourceIP": null,
+    "DestinationIP": null,
+    "SourcePort": null,
+    "DestinationPort": null,
+    "Direction": "Any",
+    "IsEnabled": true,
+    "Description": "",
+    "Domain": "vk.ru"
+  },
+  {
+    "Name": "\u0411\u043B\u043E\u043A \u043F\u0438\u043D\u0433 Google",
+    "Action": "Block",
+    "Protocol": 1,
+    "SourceIP": null,
+    "DestinationIP": null,
+    "SourcePort": null,
+    "DestinationPort": null,
+    "Direction": "Any",
+    "IsEnabled": true,
+    "Description": "",
+    "Domain": "google.com"
+  }
+]
